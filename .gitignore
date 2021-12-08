@@ -1,0 +1,15 @@
+
+# all files
+*
+
+# function code
+!jar-service.*
+
+# tool
+!tool
+!tool/*
+
+# project files
+!.gitignore
+!LICENSE
+!README*
