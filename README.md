@@ -37,5 +37,3 @@
 	start	启动服务
 	stop	停止服务
 	reboot	重启服务
-
-	[java_opts] jvm 运行参数默认值为(-Xms512m -Xmx1024m)
